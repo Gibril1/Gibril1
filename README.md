@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Idrisu Issaka Gibril</h1>
 <h3 align="center">Backend Developer.</h3>
 
-- 🌱 I’m currently building UI's for my API's in react.
+- 🌱 I’m currently building UI's for my API's in react and react native.
 
 - 💬 Ask me about **react, typescript, flask, django and express**
 
